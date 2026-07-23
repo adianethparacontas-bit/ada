@@ -128,13 +128,13 @@ npm run dev
 O servidor fica disponível em:
 
 ```
-http://localhost:3000
+http://localhost:8000
 ```
 
 Confirma que está tudo a funcionar acedendo ao endpoint de health check:
 
 ```
-http://localhost:3000/health
+http://localhost:8000/health
 ```
 
 Deves receber uma resposta semelhante a:
@@ -199,10 +199,6 @@ Isto garante consistência de estilo entre os dois developers e evita subir cód
 
 ## Roadmap de Desenvolvimento
 
-O desenvolvimento do backend está organizado em 8 semanas, cobrindo desde a fundação da arquitetura até ao deploy em ambiente de staging. Consulta o documento **"Roadmap de Desenvolvimento do Backend"** para o detalhe completo das tarefas, responsáveis e critérios de aceitação de cada semana.
+O desenvolvimento do MVP do backend está organizado em 8-12 semanas. Consulta o documento **"Roadmap de Desenvolvimento do Backend"** para o detalhe completo das tarefas, responsáveis e critérios de aceitação de cada semana.
 
 ---
-
-## Licença
-
-Projeto académico desenvolvido no âmbito do IEEE UA Student Branch e do grupo NeRD, Universidade de Aveiro.
